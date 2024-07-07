@@ -59,7 +59,7 @@ pip install numpy scipy matplotlib
 ```
 
 # Validation Notes:
-code and markdown [here](https://github.com/HermiTech-LLC/PEWBexploration/blob/main/Validation/README.md)
+[code](https://github.com/HermiTech-LLC/PEWBexploration/blob/main/Validation/pewVal.py) and markdown [here](https://github.com/HermiTech-LLC/PEWBexploration/blob/main/Validation/README.md)
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
